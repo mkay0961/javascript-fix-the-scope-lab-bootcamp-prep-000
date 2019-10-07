@@ -16,9 +16,9 @@ function add2(n) {
 
 
   // Feel free to move things around!
-  
-  return n + two
   const two = 2
+  return parseInt('n', 10) + two
+  
 }
 
 var funkyFunction = function() {
